@@ -41,3 +41,8 @@ header a {
 .main-content{
     flex-grow:1;
 }
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#323131;
+}
